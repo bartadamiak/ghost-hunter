@@ -1,0 +1,3 @@
+# ghost-hunter
+
+In progress
